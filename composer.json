@@ -1,0 +1,21 @@
+{
+   "name": "divotek_smart/mailsender-module",
+   "type": "laravel-module",
+   "description": "MailSender module for Divotek SMART",
+   "authors": [
+      {
+         "name": "Divotek SMART",
+         "email": "dev@divotek.com"
+      }
+   ],
+   "autoload": {
+      "psr-4": {
+         "Modules\\MailSender\\": ""
+      }
+   },
+   "require": {
+      "php": "^8.2"
+   },
+   "version": "1.0.0",
+   "minimum-stability": "dev"
+}

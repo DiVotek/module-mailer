@@ -1,0 +1,11 @@
+{
+    "name": "MailSender",
+    "alias": "mailsender",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MailSender\\Providers\\MailSenderServiceProvider"
+    ],
+    "files": []
+}
